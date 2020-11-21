@@ -5,5 +5,5 @@
 2. Source catkin env from workspace: `source ~/catkin_ws/devel/setup.bash`
 
 ### Run
-Run roslaunch `hw1.launch`  
-Control the turtle with arrow keys
+1. Run roslaunch `hw1.launch`  
+2. Control the turtle with arrow keys
