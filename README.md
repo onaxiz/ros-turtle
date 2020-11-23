@@ -5,5 +5,5 @@
 2. Source catkin env from workspace
 
 ### Run
-1. Run roslaunch `hw1.launch` in my package
+1. Run roslaunch `hw1.launch` in `my_package`
 2. Control the turtle with arrow keys
